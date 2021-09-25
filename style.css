@@ -1,0 +1,46 @@
+.header{
+    border-radius: 25px;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.header:hover{
+    background-color: crimson;
+}
+
+.start{
+    border-style: groove;
+    border-radius: 500px;
+    border-color: blue;
+    background-color: skyblue;
+}
+
+.start:hover{
+    background-color: blueviolet;    
+}
+
+#number{
+    background-color: tan;
+}
+
+#status{
+    background-color: yellowgreen;
+    width: 25%;
+}
+
+#footer{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: tomato;
+    color: midnightblue; 
+    font-size: 17px;
+    line-height: 4;
+}
+
+canvas{
+    border-color: aquamarine;
+    border-style: inset;
+    box-shadow: 10px 10px 15px rosybrown;
+    margin-top: 200px;
+}
